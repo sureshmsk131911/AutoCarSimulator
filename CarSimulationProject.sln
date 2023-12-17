@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoDrivingCarSimulation", "AutoDrivingCarSimulation.csproj", "{2DD8290F-9652-4733-968D-CD097F36F153}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarSimulationProject.Domain.Tests", "CarSimulationProject.Domain.Tests\CarSimulationProject.Domain.Tests.csproj", "{AC4CEAEF-B711-4637-B109-48E3E9E146C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DD8290F-9652-4733-968D-CD097F36F153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD8290F-9652-4733-968D-CD097F36F153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD8290F-9652-4733-968D-CD097F36F153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD8290F-9652-4733-968D-CD097F36F153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4CEAEF-B711-4637-B109-48E3E9E146C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4CEAEF-B711-4637-B109-48E3E9E146C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4CEAEF-B711-4637-B109-48E3E9E146C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4CEAEF-B711-4637-B109-48E3E9E146C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0CB16F8-2404-4E89-ACA3-D6309D551521}
+	EndGlobalSection
+EndGlobal
